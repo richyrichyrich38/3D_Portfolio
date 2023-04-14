@@ -16,6 +16,7 @@ import {
   figma,
   docker,
   solidity,
+  rhlogo,
   meta,
   starbucks,
   tesla,
@@ -25,6 +26,7 @@ import {
   tripguide,
   threejs,
 } from "../assets";
+
 
 export const navLinks = [
   {
@@ -119,7 +121,7 @@ const experiences = [
   {
     title: "React.js Developer",
     company_name: "Starbucks",
-    icon: starbucks,
+    icon: rhlogo,
     iconBg: "#383E56",
     date: "March 2020 - April 2021",
     points: [
