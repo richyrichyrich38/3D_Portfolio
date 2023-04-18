@@ -153,7 +153,7 @@ const experiences = [
     company_name: "The Telecom Dr",
     icon: TelecomDr,
     iconBg: "#383E56",
-    date: "Sep 2017 - Oct 2021",
+    date: "Sep 2017 - Jan 2019",
     points: [
       "Director and sole proprietor of The Telecom Dr, where we provided free telecom health checks to small the medium sized businesses with the aim of future proofing their current systems while also saving them money in the process.",
       "Managed day-to-day operations of the business, including sales, marketing, customer service and technical support.",
