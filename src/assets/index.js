@@ -22,6 +22,10 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import solidity from "./tech/solidity.png"
 import rhlogo from "./tech/rhlogo.png";
+import CVD from "./tech/CVD.png"
+import TelecomDr from "./tech/TelecomDr.jpeg"
+import WillWay from "./tech/WillWay.png"
+import SPC from "./tech/SPC.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -34,6 +38,10 @@ import tripguide from "./tripguide.png";
 
 export {
   rhlogo,
+  CVD,
+  TelecomDr,
+  WillWay,
+  SPC,
   solidity,
   logo,
   backend,

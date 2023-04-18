@@ -7,9 +7,7 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
-// template_o3zg1qd
-// service_xak609v
-// L-htojj-OVTV7RnfC
+
 
 const Contact = () => {
   const formRef = useRef();
@@ -35,10 +33,14 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
+// 
+// 
+// 
+
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        'service_xak609v',
+        'template_o3zg1qd',
         {
           from_name: form.name,
           to_name: "Richard Hills Jr",
@@ -46,7 +48,7 @@ const Contact = () => {
           to_email: "richardhills2006@gmail.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        'L-htojj-OVTV7RnfC'
       )
       .then(
         () => {
@@ -63,7 +65,7 @@ const Contact = () => {
           setLoading(false);
           console.error(error);
 
-          alert("Ahh, something went wrong. Please try again.");
+          alert("Something went wrong. Please try again.");
         }
       );
   };
