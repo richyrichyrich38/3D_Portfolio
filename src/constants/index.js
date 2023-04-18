@@ -181,7 +181,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought once we left the company that originally built our site we wouldn't find anyone who could maintain, update and fix any issues that arose as well as them, but Rick proved me wrong.",
     name: "Nick Meldrum",
     designation: "CEO",
     company: "Who's Best Group",
