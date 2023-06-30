@@ -19,6 +19,7 @@ import {
   rhlogo,
   CVD,
   TelecomDr,
+  // whosbestlogoyeah,
   meta,
   starbucks,
   tesla,
@@ -129,7 +130,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2022 - Present",
     points: [
-      "Developing and maintaining web applications using Three.js, React.js and other related technologies.",
+      "Developing and maintaining web applications using Javascript, Three.js, React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Strong focus on creating interfaces and experiences that are user-centric.",
@@ -185,7 +186,7 @@ const testimonials = [
     name: "Nick Meldrum",
     designation: "CEO",
     company: "Who's Best Group",
-    image: "https://media.licdn.com/dms/image/C4D03AQFdLo8ewY7y2w/profile-displayphoto-shrink_800_800/0/1597225209962?e=1687392000&v=beta&t=cIsWOE16MZUUAU8nLTXAP_HOfkDnjRqgMuRSu5fDpPk",
+    image: "https://whosbest.co.uk/wp-content/uploads/2019/02/whosbestlogoyeah.jpg",
   },
   // {
   //   testimonial:
