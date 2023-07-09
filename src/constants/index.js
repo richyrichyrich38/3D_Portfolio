@@ -19,7 +19,7 @@ import {
   rhlogo,
   CVD,
   TelecomDr,
-  // whosbestlogoyeah,
+  whosbestlogoyeah,
   meta,
   starbucks,
   tesla,
@@ -30,6 +30,10 @@ import {
   threejs,
   WillWay,
   SPC,
+  cryptovault,
+  cryptovault2,
+  cryptovault3,
+  cryptovault4,
 } from "../assets";
 
 
@@ -186,7 +190,7 @@ const testimonials = [
     name: "Nick Meldrum",
     designation: "CEO",
     company: "Who's Best Group",
-    image: "https://whosbest.co.uk/wp-content/uploads/2019/02/whosbestlogoyeah.jpg",
+    image: whosbestlogoyeah,
   },
   // {
   //   testimonial:
@@ -208,16 +212,15 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
-    description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+    name: "Crypto Vault",
+    description: "Welcome to CryptoVault, your one-stop destination for everything related to cryptocurrencies.You can track the performance of various cryptocurrencies, including Bitcoin, Ethereum, and others, using our real-time charts and indicators.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "node.js",
         color: "green-text-gradient",
       },
       {
@@ -225,8 +228,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: cryptovault4,
+    source_code_link: "https://thecryptovault.netlify.app/",
   },
   {
     name: "Job IT",

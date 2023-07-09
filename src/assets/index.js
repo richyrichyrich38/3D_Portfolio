@@ -36,7 +36,18 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import whosbestlogoyeah from "./tech/whosbestlogoyeah.jpg"
+import cryptovault from "./cryptovault.png"
+import cryptovault2 from "./cryptovault2.png"
+import cryptovault3 from "./cryptovault3.png"
+import cryptovault4 from "./cryptovault4.png"
+
 export {
+  cryptovault4,
+  cryptovault3,
+  cryptovault2,
+  cryptovault,
+  whosbestlogoyeah,
   rhlogo,
   CVD,
   TelecomDr,
