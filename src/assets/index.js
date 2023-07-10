@@ -41,8 +41,10 @@ import cryptovault from "./cryptovault.png"
 import cryptovault2 from "./cryptovault2.png"
 import cryptovault3 from "./cryptovault3.png"
 import cryptovault4 from "./cryptovault4.png"
+import whitewww from "./white-www.png"
 
 export {
+  whitewww,
   cryptovault4,
   cryptovault3,
   cryptovault2,
