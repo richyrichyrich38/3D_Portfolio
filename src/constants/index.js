@@ -34,6 +34,7 @@ import {
   cryptovault2,
   cryptovault3,
   cryptovault4,
+  solarsystem
 } from "../assets";
 
 
@@ -232,24 +233,24 @@ const projects = [
     source_code_link: "https://thecryptovault.netlify.app/",
   },
   {
-    name: "Job IT",
+    name: "Solar System",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "react",
+        name: "npm",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "threejs",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: solarsystem,
     source_code_link: "https://github.com/",
   },
   {

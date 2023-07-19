@@ -42,8 +42,10 @@ import cryptovault2 from "./cryptovault2.png"
 import cryptovault3 from "./cryptovault3.png"
 import cryptovault4 from "./cryptovault4.png"
 import whitewww from "./white-www.png"
+import solarsystem from "./solarsystem.png"
 
 export {
+  solarsystem,
   whitewww,
   cryptovault4,
   cryptovault3,
