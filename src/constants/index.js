@@ -235,7 +235,7 @@ const projects = [
   {
     name: "Solar System",
     description:
-    'Embark on an awe-inspiring journey through the cosmos with "Solar System," a captivating web application that brings the wonders of space right to your fingertips. This immersive experience, powered by the cutting-edge three.js library, offers a mesmerizing 3D simulation of our solar system that is both educational and entertaining.',
+    'Embark on an awe-inspiring journey through the cosmos with "Solar System," a captivating web application that brings the wonders of space right to your fingertips. This immersive experience, powered by the cutting-edge three.js library, offers a mesmerizing 3D simulation of our solar system that is both educational and entertaining, with a darker, more malevolent undertone. Do you ever feel like you\'re being watched?',
     tags: [
       {
         name: "npm",
