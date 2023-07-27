@@ -34,7 +34,8 @@ import {
   cryptovault2,
   cryptovault3,
   cryptovault4,
-  solarsystem
+  solarsystem,
+  goldenfilm
 } from "../assets";
 
 
@@ -55,7 +56,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Javascript Developer",
     icon: web,
   },
   {
@@ -254,16 +255,16 @@ const projects = [
     source_code_link: "https://solar-system-rhills.netlify.app/",
   },
   {
-    name: "Trip Guide",
+    name: "Movie Search",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Movie Search is a fast and easy to use app where you can search for any movie ever made. Piggy backing on the back of IMDb’s API, OMDb (The Open Movie Database), we are able to loop through and present all of the available options contained in the worlds largest movie database, depending on the users input in the search field, even if incomplete.",
     tags: [
       {
-        name: "nextjs",
+        name: "javascript",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "nodejs",
         color: "green-text-gradient",
       },
       {
@@ -271,8 +272,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https:/",
+    image: goldenfilm,
+    source_code_link: "https://richyrichyrich38.github.io/movie-app/",
   },
 ];
 

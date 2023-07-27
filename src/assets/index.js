@@ -43,8 +43,10 @@ import cryptovault3 from "./cryptovault3.png"
 import cryptovault4 from "./cryptovault4.png"
 import whitewww from "./white-www.png"
 import solarsystem from "./solarsystem.png"
+import goldenfilm from "./golden_film.jpeg"
 
 export {
+  goldenfilm,
   solarsystem,
   whitewww,
   cryptovault4,
