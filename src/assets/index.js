@@ -22,19 +22,10 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import solidity from "./tech/solidity.png"
 import rhlogo from "./tech/rhlogo.png";
-import CVD from "./tech/CVD.png"
-import TelecomDr from "./tech/TelecomDr.jpeg"
+import CVD from "./tech/CVD-fotor.png"
+import TelecomDr from "./tech/TelecomDr-fotor.png"
 import WillWay from "./tech/WillWay.png"
-import SPC from "./tech/SPC.png"
-
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import SPC from "./tech/simple-fotor.png"
 
 import whosbestlogoyeah from "./tech/whosbestlogoyeah.jpg"
 import cryptovault from "./cryptovault.png"
@@ -81,11 +72,4 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
 };
